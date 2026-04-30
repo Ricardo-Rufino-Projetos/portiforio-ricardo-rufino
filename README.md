@@ -11,7 +11,9 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Profissional de Tecnologia da Informação com experiência em suporte técnico N1/N2, atuando na manutenção de computadores e notebooks, atendimento a usuários e apoio à infraestrutura de redes corporativas. Experiência com gerenciamento de usuários em Active Directory, DHCP, suporte a ambientes Windows e resolução de incidentes via sistema de chamados.
+ 
+Possuo perfil proativo, foco em resolução de problemas e facilidade para trabalhar em equipe, sempre buscando aprimoramento técnico. Atualmente direcionando minha carreira para a área de Infraestrutura, com estudos em redes, servidores
  
 * **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
